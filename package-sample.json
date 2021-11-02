@@ -1,15 +1,15 @@
 {
-  "name": "venus",
+  "name": "Kishu Kin",
   "version": "1.0.0",
-  "description": "Venus Template",
+  "description": "Kishu Kin",
   "author": "Pasquale Vitiello <pasqualevitiello@gmail.com>",
   "license": "GPLv3",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/pasqualevitiello/venus.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://bitbucket.org/pasqualevitiello/venus/issues"
+    "url": ""
   },
   "scripts": {
     "clean": "rimraf dist/{css/*,js/*,images/*}",
@@ -49,6 +49,6 @@
     "stylelint": "^9.4.0",
     "uglify-es": "^3.3.10"
   },
-  "homepage": "https://bitbucket.org/pasqualevitiello/venus#readme",
+  "homepage": "",
   "main": ".eslintrc.js"
 }
